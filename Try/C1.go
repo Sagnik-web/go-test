@@ -40,7 +40,8 @@ func main() {
 	// abc()
 	// dtype()
 	// sqrtConvertiion()
-	fmt.Println(needInt(Small))
+	// fmt.Println(needInt(Small))
+
 }
 
 func C1() {
